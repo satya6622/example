@@ -1,2 +1,0 @@
-# example
-web pages examples
